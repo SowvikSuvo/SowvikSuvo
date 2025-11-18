@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="./Banner/Gold Modern Personal LinkedIn Banner (1).png" alt="Banner" />
+<img src="https://i.ibb.co.com/FfNqMgP/Gold-Modern-Personal-Linked-In-Banner.png" alt="Banner" />
 
 <div id="user-content-toc">
   <ul align="center">
