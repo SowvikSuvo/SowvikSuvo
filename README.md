@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="https://ibb.co.com/sDkJGyB" alt="Banner" />
+<img src="./banner.png" alt="Banner" />
 
 <div id="user-content-toc">
   <ul align="center">
