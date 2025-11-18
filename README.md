@@ -59,11 +59,11 @@ I am a passionate full-stack web developer from Bangladesh. I love building mode
 
 
 ### GitHub Statistics:
-| <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=SowvikSuvo&theme=swift&hide_border=true&include_all_commits=false&count_private=false" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SowvikSuvo&theme=swift&hide_border=true&include_all_commits=false&count_private=false&layout=compact" /></a> |
+| <a><img height="160" src="https://github-readme-stats.vercel.app/api?username=SowvikSuvo&show_icons=true" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SowvikSuvo&theme=swift&hide_border=true&include_all_commits=false&count_private=false&layout=compact" /></a> | 
 | ------------- | ------------- |
 
 ### Repository Stats & Streak:
-| <a><img align="center" src="https://github-contributor-stats.vercel.app/api?username=SowvikSuvo&limit=5&theme=swift&combine_all_yearly_contributions=true&hide_border=true" /></a> | <a><img align="center" src="https://streak-stats.demolab.com/?user=SowvikSuvo" /></a> |
+| <a><img align="center" src="https://github-contributor-stats.vercel.app/api?username=SowvikSuvo&limit=5&theme=swift&combine_all_yearly_contributions=true&hide_border=true" /></a> | <a></a> |
 | ------------- | ------------- |
 
 <br/>
@@ -77,11 +77,6 @@ I am a passionate full-stack web developer from Bangladesh. I love building mode
 <!--- visit count --->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SowvikSuvo&label=Profile%20views&color=0e75b6&style=flat" alt="SowvikSuvo" /> </p>
 
-## 📊 GitHub Stats
 
-<p align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=SowvikSuvo&show_icons=true" />
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=SowvikSuvo" />
-</p>
 
 
