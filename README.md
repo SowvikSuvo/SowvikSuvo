@@ -38,7 +38,7 @@ I am a passionate full-stack web developer from Bangladesh. I love building mode
 ### JavaScript Frameworks & Libraries:
 [![JavaScript Frameworks & Libraries](https://skillicons.dev/icons?i=react,nodejs,express)](https://github.com/SowvikSuvo)
 
-### Database & Model:
+### Database:
 [![Database & Model](https://skillicons.dev/icons?i=mongodb)](https://github.com/SowvikSuvo)
 
 ### Deployment Platform:
