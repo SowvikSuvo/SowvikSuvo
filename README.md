@@ -5,7 +5,7 @@
   <ul align="center">
     <summary><h1 style="display: inline-block">Hi, I'm Suvo karmoker Sowvik 👋</h1></summary>
     <!--- typo --->
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=500&lines=Technical+Instructor+@PH;Passionate+Full+Stack+Web+Developer;JavaScript+Enthusiast;Interested+in+Bioinformatics" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Building+scalable%2C+high-performance+apps.;Writing+secure%2C+optimized+code.;Crafting+clean%2C+reusable+components.;Full+end-to-end+development.;Delivering+production-ready+solutions.;API-driven+and+cloud-focused.;Real-time+features+%26+automation+expert." alt="Typing SVG" /></a>
   </ul>
 
 ---
