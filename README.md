@@ -55,8 +55,8 @@ I am a passionate full-stack web developer from Bangladesh. I love building mode
 ## 🌐 Social Links
 
 <p align="left">
-<a href="https://github.com/yourusername" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
-<a href="https://linkedin.com/in/yourusername" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://github.com/SowvikSuvo" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
+<a href="[https://linkedin.com/in/yourusername](https://www.linkedin.com/in/sowvik-suvo-2627201a2/)" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 <a href="mailto:yourmail@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 <a href="mailto:yourmail@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=facebook" /></a>
 </p>
