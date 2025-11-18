@@ -58,6 +58,7 @@ I am a passionate full-stack web developer from Bangladesh. I love building mode
 <a href="https://github.com/yourusername" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
 <a href="https://linkedin.com/in/yourusername" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 <a href="mailto:yourmail@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+<a href="mailto:yourmail@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=facebook" /></a>
 </p>
 
 ---
