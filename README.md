@@ -26,21 +26,29 @@ I am a passionate full-stack web developer from Bangladesh. I love building mode
 
 ---
 
-## 🛠 Skills
+<!--- technology --->
+##  <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width ="35"><b> TECHNOLOGY STACK:</b>
 
-<p align="left">
+### Languages:
+[![Languages](https://skillicons.dev/icons?i=html,css,javascript)](https://github.com/SowvikSuvo)
 
-### Using for Frontend
+### CSS Frameworks & Libraries:
+[![CSS Frameworks & Libraries](https://skillicons.dev/icons?i=tailwind,bootstrap)](https://github.com/SowvikSuvo)
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+### JavaScript Frameworks & Libraries:
+[![JavaScript Frameworks & Libraries](https://skillicons.dev/icons?i=react,nodejs,express)](https://github.com/SowvikSuvo)
 
-<!-- Backend -->
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+### Database & Model:
+[![Database & Model](https://skillicons.dev/icons?i=mongodb)](https://github.com/SowvikSuvo)
 
-<!-- Tools -->
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+### Deployment Platform:
+[![Deployment Platform](https://skillicons.dev/icons?i=vercel,netlify,firebase)](https://github.com/SowvikSuvo)
 
-</p>
+### Design & Graphics:
+[![Design & Graphics](https://skillicons.dev/icons?i=figma,ai,ps)](https://github.com/SowvikSuvo)
+
+### Tools & Technologies:
+[![Tools & Technologies](https://skillicons.dev/icons?i=windows,git,github,vscode,docker)](https://github.com/SowvikSuvo)
 
 ---
 
