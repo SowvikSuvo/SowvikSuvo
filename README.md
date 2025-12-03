@@ -13,7 +13,7 @@
 
 ## About Me
 
-I am a passionate full-stack web developer from Bangladesh. I love building modern web applications and learning new technologies every day. Currently, I am improving my **Next.js, Firebase, MongoDB, Express.js and Authentication** skills.
+I am a passionate **MERN Stack Developer** from Bangladesh, dedicated to building modern, scalable, and user-friendly web applications. I enjoy exploring new technologies and continuously improving my skills in **MongoDB, Express.js, React.js, Node.js, and authentication techniques** to deliver high-quality solutions.
 
 ### Current Activities
 
