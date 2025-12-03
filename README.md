@@ -72,10 +72,6 @@ I am a passionate **MERN Stack Developer** from Bangladesh, dedicated to buildin
 | <a><img height="160" src="https://github-readme-stats.vercel.app/api?username=SowvikSuvo&show_icons=true" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SowvikSuvo&theme=swift&hide_border=true&include_all_commits=false&count_private=false&layout=compact" /></a> | 
 | ------------- | ------------- |
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SowvikSuvo&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SowvikSuvo&layout=compact&theme=radical" />
-</p>
 
 ### Repository Stats & Streak:
 | <a><img align="center" src="https://github-contributor-stats.vercel.app/api?username=SowvikSuvo&limit=5&theme=swift&combine_all_yearly_contributions=true&hide_border=true" /></a> | <a></a> |
